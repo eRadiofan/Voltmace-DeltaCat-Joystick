@@ -2,7 +2,7 @@
 
 This project documents the internals and functioning of this vintage Joystick for Acorn Archimedes computers.
 
-![Outside.JPG](/home/etandi/Projects/bitbucket/PCB/Reversed/Voltmace_DeltaCat/Photos/Outside.JPG)
+![Photo of Joystick](Photos/Outside.JPG)
 
 Unlike earlier BBC micros, many of the Archimedes range did not include an analog port, so Voltmace came up with this solution, which plugs into the mouse port. It was a popular option for controlling FPV games, like Zarch, Chocks Away and Elite.
 
@@ -14,7 +14,7 @@ Inside are the X/Y pots and a printed circuit board with (amongst other things) 
 
 ![Photo of underside of PCB](Photos/PCB_Removed.JPG)The buttons are rubber membrane and pop off quite easily.
 
-![Photo of underside of PCB](/home/etandi/Projects/bitbucket/PCB/Reversed/Voltmace_DeltaCat/Photos/PCB_Back.JPG)
+![Photo of underside of PCB](/Photos/PCB_Back.JPG)
 
 The circuit diagram is as follows:
 
