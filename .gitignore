@@ -1,0 +1,4 @@
+Production/*
+*-backups/*
+fp-info-cache
+*.bak
